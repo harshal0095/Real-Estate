@@ -1,0 +1,7 @@
+{
+  "name": "Trinetra Luxury Estates",
+  "description": "A premium, high-end real estate landing page with cinematic animations and ultra-modern UI/UX.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
